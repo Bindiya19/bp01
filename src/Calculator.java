@@ -21,6 +21,7 @@ public class Calculator {
     static void divisition(int a, int b) {
         ans = a / b;
         System.out.println("dividing of "  +  a + " and " + b + " = " + ans);
+        System.out.println("change");
     }
 
     public static void main(String[] args) {
