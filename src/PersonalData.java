@@ -5,6 +5,7 @@ static int age= 38;
 static long mobile = Long.parseLong("07948523452");
 static Double salary = 2000.80;
 public static void main(String[] args){
+    System.out.println("HELLO");
 System.out.println(name);
 System.out.println(surname);
 System.out.println("My Age: " + age + " year ");
