@@ -5,6 +5,7 @@ public class Calculator {
     static void add() {
         ans = a + b;
         System.out.println("Addition of " + a + " and " + b + " = " + ans);
+        //ans should be=70
     }
 
     static void sub() {
