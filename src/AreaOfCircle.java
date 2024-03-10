@@ -10,7 +10,9 @@ public class AreaOfCircle extends AreaOfTriangle
         AreaOfCircle areaofcircle = new AreaOfCircle();
         areaofcircle.circle(2);
         AreaOfTriangle areaOfTriangle= new AreaOfTriangle();
-
+        double area=AreaOfTriangle.Triangle(5, 10);
+        System.out.println("The area Of Triangle is fpr given radius:" + area);
+//method call from other class
 
 
 
